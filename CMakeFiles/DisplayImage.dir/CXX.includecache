@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/askr/projects/hello_opencv/DisplayImage.cpp
+/home/askr/projects/test/DisplayImage.cpp
 stdio.h
 -
 opencv2/imgproc/imgproc.hpp
 -
 opencv2/highgui/highgui.hpp
+-
+opencv2/core/core.hpp
 -
 

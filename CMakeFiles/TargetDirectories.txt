@@ -1,1 +1,1 @@
-/home/askr/projects/hello_opencv/CMakeFiles/DisplayImage.dir
+/home/askr/projects/test/CMakeFiles/DisplayImage.dir
